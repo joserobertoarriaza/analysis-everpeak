@@ -16,7 +16,8 @@ La pregunta central del análisis es:
 └── README.md
 
 🗃️ Fuentes de Datos
-DatasetFuenteDescripcióntomtom_traffic.csvTomTom Traffic IndexÍndices de congestión, tiempos de viaje y retrasos en tiempo real por ciudadoecd_city_economy.csvOECD CitiesPIB per cápita, desempleo, contaminación (PM2.5) y población por ciudad
+tomtom_traffic.csvT
+oecd_city_economy.csv
 Ambas fuentes contienen datos del año 2024, con cobertura de 387 ciudades a nivel mundial, de las cuales 15 son latinoamericanas.
 
 ⚙️ Metodología
