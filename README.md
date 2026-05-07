@@ -97,5 +97,8 @@ Abre y ejecuta el notebook:
 
 bash   jupyter notebook Proyecto_Movilidad_Urbana_y_Productividad_Economica.ipynb
 
+Abre en Colab Badge:
+https://colab.research.google.com/drive/1UcT9vHzox9OhtJNLjovGSoF0fQWb2gvz?usp=sharing
+
 📄 Licencia
 Este proyecto fue desarrollado con fines analíticos para el Latin American Development Bank. Los datos utilizados pertenecen a TomTom Traffic Index y OECD Cities.
